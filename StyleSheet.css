@@ -3,3 +3,7 @@ background-image: url("https://www.nationalparks.org/sites/default/files/styles/
 background-color: #cccccc;
 background-size: cover;
 }
+h1{
+  position: absolute;
+  text-align: center;
+}
