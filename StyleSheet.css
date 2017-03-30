@@ -1,8 +1,11 @@
+<div class="container">
 <div class="columns">
   <div class="one-half column centered">
     .one-half
   </div>
 </div>
+</div>
+
 body{
 background-image: url("https://www.nationalparks.org/sites/default/files/styles/wide_2x/public/9109117816_0273acc123_o.jpg?itok=Ih1OhUHy&timestamp=1468510939");
 background-color: #cccccc;
